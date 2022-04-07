@@ -1,13 +1,13 @@
 {
   "links": [
     {
-      "name": "twitter",
-      "url": "https://twitter.com/zerostaticio",
+      "name": "insta",
+      "url": "https://www.instagram.com/haroldvanlecks/",
       "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
-      "url": "https://github.com/zerostaticthemes",
+      "url": "https://github.com/harold-barron",
       "image": "images/social/github.svg"
     }
   ]
